@@ -40,7 +40,7 @@
             h4{
                 font-size: 30px;
                 font-family: $font2;
-                color: #234262;
+                color: #FFDF00;
                 margin-bottom: 15px;
                 @media #{$mobile_device}{
                     font-size: 20px;
@@ -66,7 +66,7 @@
         }
     }
     .single_event:nth-child(2) .date{
-        background: #1fc2d9;
+        background: #d9cd1f;
     }
     .single_event:nth-child(2) .date{
         background: #ebb830;
@@ -137,7 +137,7 @@
                 h4{
                     font-size: 30px;
                     font-family: $font2;
-                    color: #234262;
+                    color: #FFDF00;
                     margin-bottom: 15px;
                     @media #{$mobile_device}{
                         font-size: 20px;

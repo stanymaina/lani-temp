@@ -23,7 +23,7 @@
     }
 }
 .boxed-btn3 {
-    background: #1fc2d9;
+    background: #d9cd1f;
 	color: #fff;
 	display: inline-block;
 	padding: 17px 50px;
@@ -41,8 +41,8 @@
     overflow: hidden;
     &:hover{
         background: #fff;
-        color: #1fc2d9;
-        border: 1px solid #1fc2d9;
+        color: #d9cd1f;
+        border: 1px solid #d9cd1f;
     }
     &:focus{
         outline: none;
@@ -79,17 +79,17 @@
 	font-size: 16px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #1fc2d9;
+    border: 1px solid #d9cd1f;
     @include border-radius(3px);
     text-align: center;
-    color: #1fc2d9 !important;
+    color: #d9cd1f !important;
     text-transform: uppercase;
     @include transition(.5s);
     cursor: pointer;
     &:hover{
-        background: #1fc2d9;
+        background: #d9cd1f;
         color: #fff !important;
-        border: 1px solid #1fc2d9;
+        border: 1px solid #d9cd1f;
     }
     &:focus{
         outline: none;
